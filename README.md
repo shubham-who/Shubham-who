@@ -52,17 +52,7 @@ Database & Tools
 * Machine Learning
 * Deep Learning
 * Data Structures & Algorithms
-* Python Development
-
-
-⸻
-
-🤝 Connect With Me
-
-* 💼 LinkedIn: Your LinkedIn
-* 📧 Email: YOUR_EMAIL
-* 🐙 GitHub: @YOUR_USERNAME
-
+* Python Development 
 ⸻
 
 💡 My Philosophy
