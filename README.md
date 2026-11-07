@@ -1,16 +1,72 @@
-## Hi there 👋
+Hey there! 👋 I’m Shubham Raj
 
-<!--
-**shubham-who/Shubham-who** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Aspiring AI/ML Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a B.Tech Computer Science student passionate about technology, programming, Artificial Intelligence, and building things that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🚀 About Me
+
+* 🎓 Pursuing B.Tech in Computer Science.
+* 🤖 Interested in Artificial Intelligence and Machine Learning.
+* 💻 Learning and improving my programming skills.
+* 🧠 Interested in Data Structures & Algorithms.
+* 🌱 Always exploring new technologies and tools.
+* 🎯 Working towards becoming an AI/ML Engineer.
+
+⸻
+
+🛠️ Tech Stack
+
+Programming Languages
+
+* C
+* C++
+* Java
+* Python
+
+AI & Machine Learning
+
+* TensorFlow
+* PyTorch
+* Scikit-learn
+
+Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+Database & Tools
+
+* MySQL
+* MongoDB
+* Git & GitHub
+
+⸻
+
+📚 Currently Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Data Structures & Algorithms
+* Python Development
+
+
+⸻
+
+🤝 Connect With Me
+
+* 💼 LinkedIn: Your LinkedIn
+* 📧 Email: YOUR_EMAIL
+* 🐙 GitHub: @YOUR_USERNAME
+
+⸻
+
+💡 My Philosophy
+
+“Consistency beats talent when talent doesn’t work consistently.”
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
